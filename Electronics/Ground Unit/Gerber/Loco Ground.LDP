@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Work\Tomi Projects\Rev5\STM (Loco)\Ground\Loco Ground.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=loco ground-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=loco ground-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=loco ground-roundholes-nonplated.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Loco Ground.PcbDoc]
+   Generated File[Loco Ground-RoundHoles-Plated.TXT]
+   Generated File[Loco Ground-RoundHoles-NonPlated.TXT]
+   Generated File[Loco Ground-SlotHoles-Plated.TXT]
+   Generated File[Loco Ground.LDP]
+   Generated File[Loco Ground.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 21:47:42 On 10.10.2021
