@@ -1,4 +1,0 @@
-Layer Pairs Export File for PCB: D:\Work\Tomi Projects\Rev6\STM (Loco)\Air\Loco Air.PcbDoc
-LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=loco air-roundholes-plated.txt|DrillLayers=gtl,g1,gp1,gbl
-LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=loco air-slotholes-plated.txt|DrillLayers=gtl,g1,gp1,gbl
-LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=loco air-roundholes-nonplated.txt|DrillLayers=gtl,g1,gp1,gbl
