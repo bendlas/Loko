@@ -1,1 +1,0 @@
-add_subdirectory(STM32WLxx_HAL_Driver)
