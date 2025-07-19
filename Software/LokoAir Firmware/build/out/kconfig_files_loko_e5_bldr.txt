@@ -1,2 +1,0 @@
-/builds/dkrasutski/loko_air/Core/bsp_stm32wle5/Kconfig
-/builds/dkrasutski/loko_air/Kconfig
