@@ -391,17 +391,16 @@ def lora_set(freq_hz):
     # Convert Hz to MHz for LoRa module
     freq_mhz = freq_hz // 1000000
 
-    LORA_UART.write("AT+MODE=TEST")
+    LORA_UART.write("AT+MODE=TEST\r\n")
     sleep_ms(1000)
     print('Lora Resp:', LORA_UART.read())
     LORA_UART.write(
-        "AT+TEST=RFCFG,{},SF12,125,12,15,14,ON,OFF,OFF".format(freq_mhz))
+        "AT+TEST=RFCFG,{},SF12,125,12,15,14,ON,OFF,OFF\r\n".format(freq_mhz))
     sleep_ms(1000)
     print('Lora Resp:', LORA_UART.read())
 
-
 def lora_data_receive():
-    LORA_UART.write('AT+TEST=RXLRPKT')
+    LORA_UART.write('AT+TEST=RXLRPKT\r\n')
     sleep_ms(500)
     print('Lora RX:', LORA_UART.read())
 
